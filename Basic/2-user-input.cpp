@@ -8,7 +8,7 @@ int main(){
 	cout<< "Enter the value of A : ";
 	cin>>a;
 	
-	cout<<"User selected "<<a<<" as value of A";
+	cout<<"A = "<<a;
 	
 	return 0;
 }
